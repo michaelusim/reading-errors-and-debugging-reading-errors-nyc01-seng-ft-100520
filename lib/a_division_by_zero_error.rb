@@ -1,3 +1,4 @@
-42 / 6
 
-hell0 = 42 / 0
+
+hello = 42 / 0
+puts hello
